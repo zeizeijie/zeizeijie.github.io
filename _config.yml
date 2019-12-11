@@ -1,11 +1,11 @@
 # Site settings
 title:BY Blog
 SEOTitle:贼贼接的博客 | BY Blogd
-header-img: img/post-bg-desk.jpg   # 显示在首页的背景图片
+header-img: img/post-bg-desk.jpg
 email: 595418670@qq.com
-description: "Nothing you think matters matters."   # 网站介绍
-keyword: " iOS, Apple, iPhone"  #关键词
-url: "http://zeizeijie.github.io"          # 这个就是填写你的博客地址
+description: "Nothing you think matters matters."
+keyword: " iOS, Apple, iPhone"
+url: "http://zeizeijie.github.io"
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 

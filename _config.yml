@@ -1,9 +1,9 @@
 # Site settings
-title:  贼贼接   #博客的标题
-SEOTitle: 贼贼接的博客 | BY Blog   #显示在浏览器上搜索的时候显示的标题
-header-img: img/post-bg-desk.jpg   #显示在首页的背景图片
+title: 贼贼接   # 博客的标题
+SEOTitle: 贼贼接的博客 | BY Blog   # 显示在浏览器上搜索的时候显示的标题
+header-img: img/post-bg-desk.jpg   # 显示在首页的背景图片
 email: 595418670@qq.com
-description: "Nothing you think matters matters."   #网站介绍
+description: "Nothing you think matters matters."   # 网站介绍
 keyword: " iOS, Apple, iPhone"  #关键词
 url: "http://zeizeijie.github.io"          # 这个就是填写你的博客地址
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
